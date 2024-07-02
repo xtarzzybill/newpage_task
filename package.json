@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "tw":" tailwindcss -i ./src/style.css -o ./public/app.css --watch "
+  },
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
